@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">23_lab12</string>
+    <string name="character_name">Enter the character name</string>
+    <string name="search_text">Search</string>
+    <string name="label_text">Rick and Morty API</string>
+    <string name="character_text">Character</string>
+    <string name="name_text">Name:\u0020</string>
+    <string name="status_text">Status:\u0020</string>
+    <string name="species_text">Species:\u0020</string>
+    <string name="gender_text">Gender:\u0020</string>
+    <string name="origin_text">Origin:\u0020</string>
+    <string name="location_text">Location:\u0020</string>
+</resources>
